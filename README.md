@@ -25,5 +25,5 @@ In this project, efficientNetB0 is utilized for real time face mask recongition.
 
 ## Real-Time Webcam Detection
 
-https://user-images.githubusercontent.com/55071205/143549778-bfddf871-541c-43fb-aca5-19f4065a54d2.mp4
+                             https://user-images.githubusercontent.com/55071205/143549778-bfddf871-541c-43fb-aca5-19f4065a54d2.mp4
 
