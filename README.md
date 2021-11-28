@@ -23,7 +23,7 @@ In this project, efficientNetB0 is utilized for real time face mask recongition.
 - scipy==1.4.1
 
 
-## Real-Time Webcam Detection
+## Real-Time Recognition Video Stream
 
           
 
