@@ -1,4 +1,5 @@
 # Contactless-Face-Mask-Recognition
+## Summary
 In this project, efficientNetB0 is utilized for real time face mask recongition. 
 
 
@@ -20,6 +21,7 @@ In this project, efficientNetB0 is utilized for real time face mask recongition.
 * OpenCV
 * Tensorflow
 * Keras
+* macOs BigSur Version 11.6
 
 ## Real-Time Mask Recognition Video Stream
 
