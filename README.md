@@ -1,7 +1,7 @@
 # Contactless-Face-Mask-Recognition
 ## Summary
 In this project, efficientNetB0 is utilized for real time face mask recongition. 
-## Datasets
+## Dataset Samples
 
 | With Mask  | Without Mask |
 | ------------- | ------------- |
