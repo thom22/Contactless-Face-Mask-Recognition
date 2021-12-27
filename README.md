@@ -1,6 +1,9 @@
 # Contactless-Face-Mask-Recognition
-#### real time detection from webcam/video stream
 
+## Summary
+In this project, a pretrained convolutional neural netwrok (CNN) is utilized for real time contactless face mask detection. The system effectively identifies faces **with mask and non-mask** regardless of the color of the mask. CNN is adopted to extract the meaningful features of the image input and perform the detection task. The model system achieved an overall detection accuracy of 97.6%.
+
+#### real time detection from webcam/video stream
 
 https://user-images.githubusercontent.com/55071205/143767935-5bedf775-33e9-4650-89ed-806a6a0a738d.mp4 
 
@@ -8,8 +11,7 @@ https://user-images.githubusercontent.com/55071205/143767935-5bedf775-33e9-4650-
 
 
 
-## Summary
-In this project, a pretrained convolutional neural netwrok (CNN) is utilized for real time contactless face mask detection. The system effectively identifies faces **with mask and non-mask** regardless of the color of the mask. CNN is adopted to extract the meaningful features of the image input and perform the detection task. The model system achieved an overall detection accuracy of 97.6%.
+
 ## Dataset Samples
 
 | With Mask  | Without Mask |
