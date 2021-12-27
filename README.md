@@ -1,6 +1,15 @@
 # Contactless-Face-Mask-Recognition
+#### real time detection from webcam/video stream
+
+
+https://user-images.githubusercontent.com/55071205/143767935-5bedf775-33e9-4650-89ed-806a6a0a738d.mp4 
+
+
+
+
+
 ## Summary
-In this project, efficientNetB0 is utilized for real time face mask recongition. 
+In this project, a pretrained convolutional neural netwrok (CNN) is utilized for real time contactless face mask detection. The system effectively identifies faces **with mask and non-mask** regardless of the color of the mask. CNN is adopted to extract the meaningful features of the image input and perform the detection task. The model system achieved an overall detection accuracy of 97.6%.
 ## Dataset Samples
 
 | With Mask  | Without Mask |
@@ -27,8 +36,6 @@ In this project, efficientNetB0 is utilized for real time face mask recongition.
 * Keras
 * macOs BigSur Version 11.6
 
-## Real-Time Mask Recognition Video Stream
 
-https://user-images.githubusercontent.com/55071205/143767935-5bedf775-33e9-4650-89ed-806a6a0a738d.mp4 
 
 
